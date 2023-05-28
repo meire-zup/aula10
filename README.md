@@ -20,13 +20,14 @@ Introdução a Programação.
   * Salários até R$ 280,00 (incluindo), receberão aumento de 20%
   * Salários entre R$ 280,00 e R$ 700,00 (incluindo), receberão aumento de 15%
   * Salários entre R$ 700,00 e R$ 1500,00 (incluindo), receberão aumento de 10%
-  * Salários de R$ 1500,00 em diante, receberão aumento de 5% 
-<p>Após o aumento ser realizado, informe na tela:</p>
+  * Salários de R$ 1500,00 em diante, receberão aumento de 5% <p>Após o aumento ser realizado, informe na tela:</p>
   * O salário antes do reajuste;
   * O percentual de aumento aplicado;
   * O valor do aumento;
   * O novo salário, após o aumento;
-* Exercício 5: O
+
+* Exercício 5: Faça um Programa que receba um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer a mensagem “valor inválido”.
+
 
 
 

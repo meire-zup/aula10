@@ -27,9 +27,11 @@ Introdução a Programação.
   * O novo salário, após o aumento;
 
 * Exercício 5: Faça um Programa que receba um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer a mensagem “valor inválido”.
+
 ### Estrutura de Repetição Aula
 
 * Exercício 1: Faça um programa que mostra na tela os números de 1 a 100.
+
 * Exercício 2: Faça um programa que mostra na tela os números de 100 a 1.
 * Exercício 3: Faça um programa para ler 5 números e mostrar o resultado da soma desses números.
 * Exercício 4: Escreva, usando while, um programa para calcular a média de N números. O valor de N é dado pelo usuário.
@@ -38,6 +40,7 @@ Introdução a Programação.
 ### Estrutura de Repetição Entregar
 
 * Exercício 1: Escreva um programa que escreva na tela, de 1 até 100, de 1 em 1, 2 vezes. A primeira vez com "for" e a segunda com "while".
+
 * Exercício 2: Faça um programa que leia n números inteiros e imprima sua média.
 * Exercício 3: Escreva um programa que leia 10 ndoIúmeros e escreva o menor valor lido é o maior valor lido.
 * Exercício 4: Faça um programa que leia n números positivos e calcule a soma desses números.
